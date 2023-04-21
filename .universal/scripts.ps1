@@ -1,0 +1,1 @@
+New-PSUScript -Name "PSUModule\Show-HelloWorld" -InformationAction "SilentlyContinue" -Module "PSUModule" -Command "Show-HelloWorld"

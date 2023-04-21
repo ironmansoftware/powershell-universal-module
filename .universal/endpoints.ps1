@@ -1,0 +1,1 @@
+New-PSUEndpoint -Url "/start" -Method @('GET') -Module "PSUModule" -Command "Start-Endpoint"

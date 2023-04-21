@@ -1,0 +1,1 @@
+New-PSUApp -Name "PSUModule" -BaseUrl "/app2" -Authenticated -AutoDeploy -Module "PSUModule" -Command "New-ADApp"
